@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Taynara Diniz (@taynarad25)
+- 👀 I'm studying Computer Science
+- 🌱 I’m currently learning C language
+- 📫 My contact email is taynarad25@alu.ufc.br
