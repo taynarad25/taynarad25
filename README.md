@@ -8,6 +8,7 @@
   <p>Participo do NERDS - Núcleo Especializado em Reengenharia e Desenvolvimento de Software</p>
   <a href="https://www.instagram.com/nerds.ufc/">Instagram NERDS</a>
 </div>
+<br>
 <p>Tenho conhecimento:</p>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
