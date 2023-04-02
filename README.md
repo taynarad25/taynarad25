@@ -26,3 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </div>
+<br>
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=taynarad25&show_icons=true&theme=dark" width="400"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynarad25&layout=compact&theme=dark" width="250" />
+</div>
