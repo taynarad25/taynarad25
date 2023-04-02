@@ -6,8 +6,8 @@
   <p>Atualmente estou trabalhando na FitBank, como Analista de Qualidade Junior I.</p>
   <p>Estou cursando Ciência da Computação na UFC</p>
   <p>Participo do NERDS - Núcleo Especializado em Reengenharia e Desenvolvimento de Software</p>
-  <a href="https://www.instagram.com/nerds.ufc/">Instagram NERDS</a>
-</div>
+  <a href="https://www.instagram.com/nerds.ufc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/></a>
+<div>
 <br>
 <p>Tenho conhecimento:</p>
 <div>
